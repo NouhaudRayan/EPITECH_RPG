@@ -1,0 +1,6 @@
+422
+303
+sprites/hud/inventory/chestplate_epic.png
+103
+297
+sprites/hud/inventory/chestplate_legendary.png

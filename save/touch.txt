@@ -1,0 +1,14 @@
+Avancer:
+25
+Reculer:
+18
+Droite:
+3
+Gauche:
+16
+Map:
+12
+Interagire:
+4
+Inventaire:
+8

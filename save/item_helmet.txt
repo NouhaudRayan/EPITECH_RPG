@@ -1,0 +1,6 @@
+497
+305
+sprites/hud/inventory/helmet_epic.png
+128
+135
+sprites/hud/inventory/helmet_legendary.png
